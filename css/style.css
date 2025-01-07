@@ -123,11 +123,10 @@ transform: translateX(10px);}
 
  .bx-wrapper .bx-pager-link{width: 20px  !important; height: 20px  !important; transform: rotate(45deg) ; background-color: #b2b2b2; margin-top: 114px  !important; border-radius: 0px  !important; }
  .bx-wrapper .bx-pager-link-active{background-color: #000;}
+ .wrap-3 .bx-pager-link:hover{background-color: #666!important;}
 
-/* 
- .pager li{width: 20px; height: 20px; transform: rotate(45deg); background-color: #b2b2b2; margin-top: 114px; }
-.pager ul{gap: 20px;}
- .pager .active{background-color: #000;} */
+
+
 
  .wrap-4{background-color: #fff; padding: 65px 0 35px 0; }
  .features{background-color: #d9bf8f; padding: 20px 15px; color: #fff; white-space: nowrap; height: 100px;}
